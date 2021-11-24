@@ -1,0 +1,11 @@
+CAR_ID;VEHICLETYPE;YEAR;GEARBOX;HP;MODEL;KILOMETER;FUELTYPE;PRICE
+20301;coupe;2008;automatic;231;CLK;125000;petrol;14000500
+9924;cabrio;1960;manual;160;Other;5000;petrol;585000
+24460;cabrio;2010;automatic;625;Other;30000;petrol;368000
+24002;limousine;2009;automatic;457;C-Class;100000;petrol;350000
+21030;cabrio;1934;manual;60;Other;150000;;275000
+15944;cabrio;2013;automatic;571;Other;10000;petrol;237500
+8778;coupe;2010;automatic;571;Other;10000;petrol;225000
+6361;coupe;2010;automatic;571;Other;50000;petrol;214800
+10476;coupe;2011;automatic;571;Other;50000;petrol;205000
+23090;cabrio;1952;manual;116;Other;100000;petrol;205000
