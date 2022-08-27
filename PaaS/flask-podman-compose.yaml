@@ -2,6 +2,6 @@ version: "3"
 
 services:
     flask:
-        image: "rschop/odcn:flask-docker"
+        image: "rschop/odcn:flaskapp"
         ports:
-            - 8001:5000
+            - 56733:80
