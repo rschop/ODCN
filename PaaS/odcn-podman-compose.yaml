@@ -1,11 +1,11 @@
 version: "3"
 
 services:
-    superset:
-        image: docker.io/rschop/odcn:superset-docker
-        ports:
-            - 8001:8088
+    # superset:
+    #     image: docker.io/rschop/odcn:superset-docker
+    #     ports:
+    #         - 8001:8088
     flask:
         image: docker.io/rschop/odcn:flaskapp
         ports:
-            - 8002:80
+            - 8001:80
